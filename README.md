@@ -1,4 +1,4 @@
 # HUAWEI_CTR
-##catboost：
-baseline：0.72
-经过特征工程：0.56
+## catboost：
+1. baseline：0.72
+2. 经过特征工程：0.56（count特征，ctr特征，nunique特征）
